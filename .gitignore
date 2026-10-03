@@ -31,3 +31,7 @@ build/
 # Local data
 *.sqlite
 *.db
+
+# Local runtime data & build info
+backend/data/
+*.tsbuildinfo
